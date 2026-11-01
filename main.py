@@ -346,7 +346,7 @@ def get_instructions_menu(lang='en'):
     else:
         return InlineKeyboardMarkup(
             inline_keyboard=[
-                [InlineKeyboardButton(text="Register 🕹️", url="https://1wgfor.com/?open=register&p=lx6n&sub1=8052181437&p=0kik")],
+                [InlineKeyboardButton(text="Register 🕹️", url="https://1wssrq.life/?open=register&p=lx6n&sub1=8052181437&p=0kik")],
                 [InlineKeyboardButton(text="📩 GET THE KEY 📩", url="https://t.me/Jimmy_716?text=Hi,%20Can%20you%20please%20send%20me%20activation%20key")],
                 [InlineKeyboardButton(text="Main 📱", callback_data="back_to_main")]
             ]
