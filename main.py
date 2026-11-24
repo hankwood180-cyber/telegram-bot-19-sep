@@ -1021,7 +1021,7 @@ def generate_mines2_signal(mines_count=None):
 
 def generate_aviator_signal():
     x1 = round(random.uniform(1.10, 1.30), 2)
-    x2 = round(random.uniform(1.20, 1.80), 2)
+    x2 = round(random.uniform(1.90, 2.16), 2)
     x3 = round(random.uniform(2.51, 5.12), 2)
     return f"YOUR NEXT BET! ✈️\n\n{x1}x ✅\n{x2}x ✅\n\n💲 CASH OUT!"
 
